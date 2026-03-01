@@ -45,3 +45,4 @@ experiments/contrastive/checkpoints/
 experiments/contrastive/logs/
 experiments/embedding-search/audio_corpus/
 experiments/embedding-search/indices/
+config.bat
